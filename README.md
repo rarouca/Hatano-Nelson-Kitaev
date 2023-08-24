@@ -3,12 +3,12 @@ Supplemental Videos for the manuscript "Exceptionally enhanced topological super
 
 Video 1:
 
-![](https://github.com/rarouca/Hatano-Nelson-Kitaev/blob/main/sup_vid_1.gif)
+![]([https://github.com/rarouca/Hatano-Nelson-Kitaev/blob/main/sup_vid_1.gif)
 
 
 Video 2:
 
-![](https://github.com/rarouca/Hatano-Nelson-Kitaev/blob/main/sup_vid_2.gif)
+![]([https://github.com/rarouca/Hatano-Nelson-Kitaev/blob/main/sup_vid_2.gif)
 
 
 Video 3:
